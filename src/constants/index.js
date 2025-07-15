@@ -5,7 +5,12 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. `;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `Hello! I'm a passionate UI/UX designer dedicated to creating meaningful, user-centered digital experiences. I specialize in transforming complex ideas into intuitive and elegant designs. With a strong foundation in design tools like Figma, Adobe XD, Sketch, and Photoshop, I strive to blend functionality with creativity.
+
+Whether it's designing seamless mobile apps, responsive web interfaces, or improving existing user flows, I focus on delivering solutions that are both visually engaging and easy to use. I love collaborating with developers and stakeholders to bring concepts to life that truly make a difference.
+
+Design, for me, isn’t just about how something looks—it's about how it feels and works. Let's make experiences that matter.
+`;
 
 export const EXPERIENCES = [
   {

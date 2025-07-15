@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants";
-import profilePic from "../assets/prof1.jpg";
+import profilePic from "../assets/Profile pic~2.jpg";
 import { motion } from "motion/react";
 const Hero = () => {
     return (
@@ -20,7 +20,7 @@ const Hero = () => {
                             transition={{
                                 duration: 0.6,
                                delay:0.16
-                            }} className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent">Full Stack Developer</motion.span>
+                            }} className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent">UI UX DESINGER</motion.span>
                         <p className="my-2 max-w-xl py-6 font-light tracking tighter">{HERO_CONTENT}</p>
                     </div>
                 </div>
